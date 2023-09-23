@@ -9,3 +9,4 @@
  - Fizz Buzz
  - Middle of the Linked List
  - Ransom Note
+ - Two Sum
