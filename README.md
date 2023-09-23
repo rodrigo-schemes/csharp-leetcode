@@ -8,3 +8,4 @@
  - Number of Steps to Reduce a Number to Zero
  - Fizz Buzz
  - Middle of the Linked List
+ - Ransom Note
