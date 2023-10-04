@@ -1,13 +1,13 @@
-﻿namespace LeetCode.Easy;
+﻿namespace LeetCode.Medium;
 
-public class DecodedStringAtIndex
+public static class DecodedStringAtIndex
 {
     public static string Run(string s, int k) {
         long N = 0;
         int i;
         
         for (i = 0; N < k; i++) {
-            if (Char.IsDigit(s[i])) {
+            if (char.IsDigit(s[i])) {
                 N *= s[i] - '0';
             }
             else {
@@ -16,7 +16,7 @@ public class DecodedStringAtIndex
         }
         
         while (i-- > 0) {
-            if (Char.IsDigit(s[i])) {
+            if (char.IsDigit(s[i])) {
                 N /= s[i] - '0';
                 k %= (int)N;
             }

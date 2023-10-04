@@ -1,7 +1,7 @@
 ﻿using FluentAssertions;
-using LeetCode.Easy;
+using LeetCode.Medium;
 
-namespace LeetCode.UnitTests.Easy;
+namespace LeetCode.UnitTests.Medium;
 
 public class DecodeStringAtIndexTests
 {
