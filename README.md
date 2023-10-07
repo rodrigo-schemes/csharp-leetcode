@@ -10,6 +10,7 @@ Desafios de Leet Code com implementação de testes unitários
 - [392. Is Subsequence](https://leetcode.com/problems/is-subsequence)
 - [412. Fizz Buzz](https://leetcode.com/problems/fizz-buzz)
 - [876. Middle of the Linked List](https://leetcode.com/problems/middle-of-the-linked-list)
+- [1108. Defanging an IP Address](https://leetcode.com/problems/defanging-an-ip-address/)
 - [1342. Number of Steps to Reduce a Number to Zero](https://leetcode.com/problems/number-of-steps-to-reduce-a-number-to-zero)
 - [1480. Running Sum of 1d Array](https://leetcode.com/problems/running-sum-of-1d-array)
 - [1512. Number of Good Pairs](https://leetcode.com/problems/number-of-good-pairs)
