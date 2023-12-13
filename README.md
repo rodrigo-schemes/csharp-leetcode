@@ -17,6 +17,7 @@ Desafios de Leet Code com implementação de testes unitários
 - [1672. Richest Customer Wealth](https://leetcode.com/problems/richest-customer-wealth)
 - [1920. Array from Permutation](https://leetcode.com/problems/build-array-from-permutation/)
 - [1929. Concatenation Of Array](https://leetcode.com/problems/concatenation-of-array)
+- [2011. Final Value of Variable After Performing Operations](https://leetcode.com/problems/final-value-of-variable-after-performing-operations)
 - [2469. Convert The Temperature](https://leetcode.com/problems/convert-the-temperature/)
 
 ### Medium
