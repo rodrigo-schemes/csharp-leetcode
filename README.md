@@ -19,6 +19,7 @@ Desafios de Leet Code com implementação de testes unitários
 - [1929. Concatenation Of Array](https://leetcode.com/problems/concatenation-of-array)
 - [2011. Final Value of Variable After Performing Operations](https://leetcode.com/problems/final-value-of-variable-after-performing-operations)
 - [2469. Convert The Temperature](https://leetcode.com/problems/convert-the-temperature/)
+- [2769. Find The Maximum Achievable Number](https://leetcode.com/problems/find-the-maximum-achievable-number/)
 
 ### Medium
 - [880. Decode String At Index](https://leetcode.com/problems/decoded-string-at-index)
