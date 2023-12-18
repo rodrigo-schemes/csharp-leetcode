@@ -9,6 +9,7 @@ Desafios de Leet Code com implementação de testes unitários
 - [389. Find The Difference](https://leetcode.com/problems/find-the-difference)
 - [392. Is Subsequence](https://leetcode.com/problems/is-subsequence)
 - [412. Fizz Buzz](https://leetcode.com/problems/fizz-buzz)
+- [771. Jewels and Stones](https://leetcode.com/problems/jewels-and-stones/)
 - [876. Middle of the Linked List](https://leetcode.com/problems/middle-of-the-linked-list)
 - [1108. Defanging an IP Address](https://leetcode.com/problems/defanging-an-ip-address/)
 - [1342. Number of Steps to Reduce a Number to Zero](https://leetcode.com/problems/number-of-steps-to-reduce-a-number-to-zero)
