@@ -2,7 +2,7 @@
 Desafios de Leet Code com implementação de testes unitários
 
 ## Desafios resolvidos
-### Easy (21)
+### Easy (22)
 - [1. Two Sum](https://leetcode.com/problems/two-sum)
 - [9. Palindrome Number](https://leetcode.com/problems/palindrome-number)
 - [383. Ransom Note](https://leetcode.com/problems/ransom-note)
@@ -21,6 +21,7 @@ Desafios de Leet Code com implementação de testes unitários
 - [1920. Array from Permutation](https://leetcode.com/problems/build-array-from-permutation/)
 - [1929. Concatenation Of Array](https://leetcode.com/problems/concatenation-of-array)
 - [2011. Final Value of Variable After Performing Operations](https://leetcode.com/problems/final-value-of-variable-after-performing-operations)
+- [2413. Smallest Even Multiple](https://leetcode.com/problems/smallest-even-multiple)
 - [2469. Convert The Temperature](https://leetcode.com/problems/convert-the-temperature/)
 - [2769. Find The Maximum Achievable Number](https://leetcode.com/problems/find-the-maximum-achievable-number/)
 - [2798. Number of Employees Who Met the Target](https://leetcode.com/problems/number-of-employees-who-met-the-target)
