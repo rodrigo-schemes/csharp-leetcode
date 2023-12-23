@@ -2,7 +2,7 @@
 Desafios de Leet Code com implementação de testes unitários
 
 ## Desafios resolvidos
-### Easy (22)
+### Easy (23)
 - [1. Two Sum](https://leetcode.com/problems/two-sum)
 - [9. Palindrome Number](https://leetcode.com/problems/palindrome-number)
 - [383. Ransom Note](https://leetcode.com/problems/ransom-note)
@@ -25,6 +25,7 @@ Desafios de Leet Code com implementação de testes unitários
 - [2469. Convert The Temperature](https://leetcode.com/problems/convert-the-temperature/)
 - [2769. Find The Maximum Achievable Number](https://leetcode.com/problems/find-the-maximum-achievable-number/)
 - [2798. Number of Employees Who Met the Target](https://leetcode.com/problems/number-of-employees-who-met-the-target)
+- [2894. Divisible and Non-divisible Sums Difference](https://leetcode.com/problems/divisible-and-non-divisible-sums-difference)
 - [2942. Find Words Containing Character](https://leetcode.com/problems/find-words-containing-character/)
 
 ### Medium (1)
