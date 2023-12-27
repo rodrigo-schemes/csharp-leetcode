@@ -31,6 +31,7 @@ Desafios de Leet Code com implementação de testes unitários
 - [2160. Minimum Sum Of Four Digit Number After Splitting Digits](https://leetcode.com/problems/minimum-sum-of-four-digit-number-after-splitting-digits)
 - [2235. Add Two Integers](https://leetcode.com/problems/add-two-integers)
 - [2413. Smallest Even Multiple](https://leetcode.com/problems/smallest-even-multiple)
+- [2574. Left And Right Sum Differences](https://leetcode.com/problems/left-and-right-sum-differences)
 - [2469. Convert The Temperature](https://leetcode.com/problems/convert-the-temperature/)
 - [2769. Find The Maximum Achievable Number](https://leetcode.com/problems/find-the-maximum-achievable-number/)
 - [2798. Number of Employees Who Met the Target](https://leetcode.com/problems/number-of-employees-who-met-the-target)
