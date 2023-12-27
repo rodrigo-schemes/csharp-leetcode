@@ -2,7 +2,7 @@
 Desafios de Leet Code com implementação de testes unitários
 
 ## Desafios resolvidos
-### Easy (30)
+### Easy (34)
 - [1. Two Sum](https://leetcode.com/problems/two-sum)
 - [9. Palindrome Number](https://leetcode.com/problems/palindrome-number)
 - [383. Ransom Note](https://leetcode.com/problems/ransom-note)
@@ -11,6 +11,7 @@ Desafios de Leet Code com implementação de testes unitários
 - [412. Fizz Buzz](https://leetcode.com/problems/fizz-buzz)
 - [771. Jewels and Stones](https://leetcode.com/problems/jewels-and-stones/)
 - [876. Middle of the Linked List](https://leetcode.com/problems/middle-of-the-linked-list)
+- [938. Range Sum Of Binary Search Tree](https://leetcode.com/problems/range-sum-of-bst)
 - [1108. Defanging an IP Address](https://leetcode.com/problems/defanging-an-ip-address/)
 - [1281. Subtract The Product And Sum Of Digits Of An Integer](https://leetcode.com/problems/subtract-the-product-and-sum-of-digits-of-an-integer)
 - [1342. Number of Steps to Reduce a Number to Zero](https://leetcode.com/problems/number-of-steps-to-reduce-a-number-to-zero)
@@ -22,16 +23,19 @@ Desafios de Leet Code com implementação de testes unitários
 - [1603. Design Parking System](https://leetcode.com/problems/design-parking-system)
 - [1672. Richest Customer Wealth](https://leetcode.com/problems/richest-customer-wealth)
 - [1678. Goal Parser Interpretation](https://leetcode.com/problems/goal-parser-interpretation)
+- [1720. Decoded XORed Array](https://leetcode.com/problems/decode-xored-array)
 - [1920. Array from Permutation](https://leetcode.com/problems/build-array-from-permutation/)
 - [1929. Concatenation Of Array](https://leetcode.com/problems/concatenation-of-array)
 - [2011. Final Value of Variable After Performing Operations](https://leetcode.com/problems/final-value-of-variable-after-performing-operations)
 - [2114. Maximum Number Of Words Found In Sentences](https://leetcode.com/problems/maximum-number-of-words-found-in-sentences)
+- [2160. Minimum Sum Of Four Digit Number After Splitting Digits](https://leetcode.com/problems/minimum-sum-of-four-digit-number-after-splitting-digits)
 - [2235. Add Two Integers](https://leetcode.com/problems/add-two-integers)
 - [2413. Smallest Even Multiple](https://leetcode.com/problems/smallest-even-multiple)
 - [2469. Convert The Temperature](https://leetcode.com/problems/convert-the-temperature/)
 - [2769. Find The Maximum Achievable Number](https://leetcode.com/problems/find-the-maximum-achievable-number/)
 - [2798. Number of Employees Who Met the Target](https://leetcode.com/problems/number-of-employees-who-met-the-target)
 - [2824. Count Pairs Whose Sum Is Less Than Target](https://leetcode.com/problems/goal-parser-interpretation)
+- [2859. Sum Of Values At Indices With K Set Bits](https://leetcode.com/problems/sum-of-values-at-indices-with-k-set-bits)
 - [2894. Divisible and Non-divisible Sums Difference](https://leetcode.com/problems/divisible-and-non-divisible-sums-difference)
 - [2942. Find Words Containing Character](https://leetcode.com/problems/find-words-containing-character/)
 
