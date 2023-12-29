@@ -1,5 +1,6 @@
 ﻿using FluentAssertions;
 using LeetCode.Easy;
+using LeetCode.Shared;
 
 namespace LeetCode.UnitTests.Easy;
 

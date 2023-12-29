@@ -1,4 +1,6 @@
-﻿namespace LeetCode.Easy;
+﻿using LeetCode.Shared;
+
+namespace LeetCode.Easy;
 
 public static class RangeSumOfBinarySearchTree
 {
@@ -19,11 +21,4 @@ public static class RangeSumOfBinarySearchTree
 
         return result;
     }
-}
-
-public class TreeNode(int val = 0, TreeNode? left = null, TreeNode? right = null)
-{
-    public readonly int Val = val;
-    public readonly TreeNode? Left = left;
-    public readonly TreeNode? Right = right;
 }
