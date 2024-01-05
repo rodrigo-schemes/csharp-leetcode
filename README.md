@@ -2,7 +2,7 @@
 Desafios de Leet Code com implementação de testes unitários
 
 ## Desafios resolvidos
-### Easy (34)
+### Easy (42)
 - [1. Two Sum](https://leetcode.com/problems/two-sum)
 - [9. Palindrome Number](https://leetcode.com/problems/palindrome-number)
 - [383. Ransom Note](https://leetcode.com/problems/ransom-note)
@@ -13,7 +13,9 @@ Desafios de Leet Code com implementação de testes unitários
 - [876. Middle of the Linked List](https://leetcode.com/problems/middle-of-the-linked-list)
 - [938. Range Sum Of Binary Search Tree](https://leetcode.com/problems/range-sum-of-bst)
 - [1108. Defanging an IP Address](https://leetcode.com/problems/defanging-an-ip-address/)
+- [1221. Split a String in Balanced Strings](https://leetcode.com/problems/split-a-string-in-balanced-strings/)
 - [1281. Subtract The Product And Sum Of Digits Of An Integer](https://leetcode.com/problems/subtract-the-product-and-sum-of-digits-of-an-integer)
+- [1313. Decompress Run-Length Encoded List](https://leetcode.com/problems/decompress-run-length-encoded-list)
 - [1342. Number of Steps to Reduce a Number to Zero](https://leetcode.com/problems/number-of-steps-to-reduce-a-number-to-zero)
 - [1365. How Many Numbers Are Smaller Than The Current Number](https://leetcode.com/problems/how-many-numbers-are-smaller-than-the-current-number)
 - [1379. Find a Corresponding Node of a Binary Tree In A Clone Of That Tree](https://leetcode.com/problems/find-a-corresponding-node-of-a-binary-tree-in-a-clone-of-that-tree)
@@ -42,6 +44,7 @@ Desafios de Leet Code com implementação de testes unitários
 - [2859. Sum Of Values At Indices With K Set Bits](https://leetcode.com/problems/sum-of-values-at-indices-with-k-set-bits)
 - [2894. Divisible and Non-divisible Sums Difference](https://leetcode.com/problems/divisible-and-non-divisible-sums-difference)
 - [2942. Find Words Containing Character](https://leetcode.com/problems/find-words-containing-character/)
+- [2974. Minimum Number Game](https://leetcode.com/problems/minimum-number-game)
 
 ### Medium (1)
 - [880. Decode String At Index](https://leetcode.com/problems/decoded-string-at-index)
