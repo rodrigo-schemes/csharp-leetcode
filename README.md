@@ -2,7 +2,7 @@
 Desafios de Leet Code com implementação de testes unitários
 
 ## Desafios resolvidos
-### Easy (44)
+### Easy (45)
 - [1. Two Sum](https://leetcode.com/problems/two-sum)
 - [9. Palindrome Number](https://leetcode.com/problems/palindrome-number)
 - [383. Ransom Note](https://leetcode.com/problems/ransom-note)
@@ -27,6 +27,7 @@ Desafios de Leet Code com implementação de testes unitários
 - [1512. Number of Good Pairs](https://leetcode.com/problems/number-of-good-pairs)
 - [1603. Design Parking System](https://leetcode.com/problems/design-parking-system)
 - [1637. Widest Vertical Area Between Two Points Containing No Points](https://leetcode.com/problems/widest-vertical-area-between-two-points-containing-no-points)
+- [1662. Check If Two Strings Are Equivalent](https://leetcode.com/problems/check-if-two-string-arrays-are-equivalent/)
 - [1672. Richest Customer Wealth](https://leetcode.com/problems/richest-customer-wealth)
 - [1678. Goal Parser Interpretation](https://leetcode.com/problems/goal-parser-interpretation)
 - [1688. Count of Matches in Tournament](https://leetcode.com/problems/count-of-matches-in-tournament)
@@ -40,6 +41,7 @@ Desafios de Leet Code com implementação de testes unitários
 - [2413. Smallest Even Multiple](https://leetcode.com/problems/smallest-even-multiple)
 - [2574. Left And Right Sum Differences](https://leetcode.com/problems/left-and-right-sum-differences)
 - [2469. Convert The Temperature](https://leetcode.com/problems/convert-the-temperature/)
+- [2652. Sum Multiples](https://leetcode.com/problems/sum-multiples)
 - [2769. Find The Maximum Achievable Number](https://leetcode.com/problems/find-the-maximum-achievable-number/)
 - [2798. Number of Employees Who Met the Target](https://leetcode.com/problems/number-of-employees-who-met-the-target)
 - [2824. Count Pairs Whose Sum Is Less Than Target](https://leetcode.com/problems/goal-parser-interpretation)
