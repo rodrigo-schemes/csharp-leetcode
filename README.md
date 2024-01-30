@@ -2,7 +2,7 @@
 Desafios de Leet Code com implementação de testes unitários
 
 ## Desafios resolvidos
-### Easy (45)
+### Easy (47)
 - [1. Two Sum](https://leetcode.com/problems/two-sum)
 - [9. Palindrome Number](https://leetcode.com/problems/palindrome-number)
 - [383. Ransom Note](https://leetcode.com/problems/ransom-note)
@@ -32,6 +32,7 @@ Desafios de Leet Code com implementação de testes unitários
 - [1678. Goal Parser Interpretation](https://leetcode.com/problems/goal-parser-interpretation)
 - [1688. Count of Matches in Tournament](https://leetcode.com/problems/count-of-matches-in-tournament)
 - [1720. Decoded XORed Array](https://leetcode.com/problems/decode-xored-array)
+- [1773. Count Items Matching a Rule](https://leetcode.com/problems/count-items-matching-a-rule/)
 - [1920. Array from Permutation](https://leetcode.com/problems/build-array-from-permutation/)
 - [1929. Concatenation Of Array](https://leetcode.com/problems/concatenation-of-array)
 - [2011. Final Value of Variable After Performing Operations](https://leetcode.com/problems/final-value-of-variable-after-performing-operations)
