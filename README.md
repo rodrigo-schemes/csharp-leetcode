@@ -2,7 +2,7 @@
 Desafios de Leet Code com implementação de testes unitários
 
 ## Desafios resolvidos
-### Easy (47)
+### Easy (49)
 - [1. Two Sum](https://leetcode.com/problems/two-sum)
 - [9. Palindrome Number](https://leetcode.com/problems/palindrome-number)
 - [383. Ransom Note](https://leetcode.com/problems/ransom-note)
@@ -25,6 +25,7 @@ Desafios de Leet Code com implementação de testes unitários
 - [1480. Running Sum of 1d Array](https://leetcode.com/problems/running-sum-of-1d-array)
 - [1486. XOR Operation In An Array](https://leetcode.com/problems/xor-operation-in-an-array)
 - [1512. Number of Good Pairs](https://leetcode.com/problems/number-of-good-pairs)
+- [1528. Shuffle String](https://leetcode.com/problems/shuffle-string/)
 - [1603. Design Parking System](https://leetcode.com/problems/design-parking-system)
 - [1637. Widest Vertical Area Between Two Points Containing No Points](https://leetcode.com/problems/widest-vertical-area-between-two-points-containing-no-points)
 - [1662. Check If Two Strings Are Equivalent](https://leetcode.com/problems/check-if-two-string-arrays-are-equivalent/)
@@ -33,6 +34,7 @@ Desafios de Leet Code com implementação de testes unitários
 - [1688. Count of Matches in Tournament](https://leetcode.com/problems/count-of-matches-in-tournament)
 - [1720. Decoded XORed Array](https://leetcode.com/problems/decode-xored-array)
 - [1773. Count Items Matching a Rule](https://leetcode.com/problems/count-items-matching-a-rule/)
+- [1816. Truncate Sentence](https://leetcode.com/problems/truncate-sentence/)
 - [1920. Array from Permutation](https://leetcode.com/problems/build-array-from-permutation/)
 - [1929. Concatenation Of Array](https://leetcode.com/problems/concatenation-of-array)
 - [2011. Final Value of Variable After Performing Operations](https://leetcode.com/problems/final-value-of-variable-after-performing-operations)
@@ -53,7 +55,3 @@ Desafios de Leet Code com implementação de testes unitários
 
 ### Medium (1)
 - [880. Decode String At Index](https://leetcode.com/problems/decoded-string-at-index)
-
-## Estudar Mais
-- [880. Decode String At Index](https://leetcode.com/problems/decoded-string-at-index)
-- [9. Palindrome Number](https://leetcode.com/problems/palindrome-number)
