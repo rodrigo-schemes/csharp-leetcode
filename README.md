@@ -2,7 +2,7 @@
 Desafios de Leet Code com implementação de testes unitários
 
 ## Desafios resolvidos
-### Easy (49)
+### Easy (51)
 - [1. Two Sum](https://leetcode.com/problems/two-sum)
 - [9. Palindrome Number](https://leetcode.com/problems/palindrome-number)
 - [383. Ransom Note](https://leetcode.com/problems/ransom-note)
@@ -28,6 +28,7 @@ Desafios de Leet Code com implementação de testes unitários
 - [1528. Shuffle String](https://leetcode.com/problems/shuffle-string/)
 - [1603. Design Parking System](https://leetcode.com/problems/design-parking-system)
 - [1637. Widest Vertical Area Between Two Points Containing No Points](https://leetcode.com/problems/widest-vertical-area-between-two-points-containing-no-points)
+- [1656. Design An Ordered Stream](https://leetcode.com/problems/design-an-ordered-stream/)
 - [1662. Check If Two Strings Are Equivalent](https://leetcode.com/problems/check-if-two-string-arrays-are-equivalent/)
 - [1672. Richest Customer Wealth](https://leetcode.com/problems/richest-customer-wealth)
 - [1678. Goal Parser Interpretation](https://leetcode.com/problems/goal-parser-interpretation)
@@ -40,6 +41,7 @@ Desafios de Leet Code com implementação de testes unitários
 - [2011. Final Value of Variable After Performing Operations](https://leetcode.com/problems/final-value-of-variable-after-performing-operations)
 - [2114. Maximum Number Of Words Found In Sentences](https://leetcode.com/problems/maximum-number-of-words-found-in-sentences)
 - [2160. Minimum Sum Of Four Digit Number After Splitting Digits](https://leetcode.com/problems/minimum-sum-of-four-digit-number-after-splitting-digits)
+- [2194. Cells In a Range On A Excel Sheet](https://leetcode.com/problems/cells-in-a-range-on-an-excel-sheet/)
 - [2235. Add Two Integers](https://leetcode.com/problems/add-two-integers)
 - [2413. Smallest Even Multiple](https://leetcode.com/problems/smallest-even-multiple)
 - [2574. Left And Right Sum Differences](https://leetcode.com/problems/left-and-right-sum-differences)
