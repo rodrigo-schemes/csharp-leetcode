@@ -2,7 +2,7 @@
 Desafios de Leet Code com implementação de testes unitários
 
 ## Desafios resolvidos
-### Easy (51)
+### Easy (53)
 - [1. Two Sum](https://leetcode.com/problems/two-sum)
 - [9. Palindrome Number](https://leetcode.com/problems/palindrome-number)
 - [383. Ransom Note](https://leetcode.com/problems/ransom-note)
@@ -46,6 +46,8 @@ Desafios de Leet Code com implementação de testes unitários
 - [2413. Smallest Even Multiple](https://leetcode.com/problems/smallest-even-multiple)
 - [2574. Left And Right Sum Differences](https://leetcode.com/problems/left-and-right-sum-differences)
 - [2469. Convert The Temperature](https://leetcode.com/problems/convert-the-temperature/)
+- [2520. Count The Digits That Divide A Number](https://leetcode.com/problems/count-the-digits-that-divide-a-number/)
+- [2535. Difference Between Element Sum And Digit Sum Of An Array](https://leetcode.com/problems/difference-between-element-sum-and-digit-sum-of-an-array/)
 - [2652. Sum Multiples](https://leetcode.com/problems/sum-multiples)
 - [2769. Find The Maximum Achievable Number](https://leetcode.com/problems/find-the-maximum-achievable-number/)
 - [2798. Number of Employees Who Met the Target](https://leetcode.com/problems/number-of-employees-who-met-the-target)
