@@ -66,6 +66,7 @@ Desafios de Leet Code com implementação de testes unitários
 - [1221. Split a String in Balanced Strings](https://leetcode.com/problems/split-a-string-in-balanced-strings/)
 - [1678. Goal Parser Interpretation](https://leetcode.com/problems/goal-parser-interpretation)
 - [2194. Cells In a Range On A Excel Sheet](https://leetcode.com/problems/cells-in-a-range-on-an-excel-sheet/)
+- [3110. Score Of A String](https://leetcode.com/problems/score-of-a-string/)
 
 ### Medium (1)
 #### Strings
