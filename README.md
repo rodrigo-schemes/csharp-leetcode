@@ -2,7 +2,7 @@
 Desafios de Leet Code com implementação de testes unitários
 
 ## Desafios resolvidos
-### Easy (54)
+### Easy (55)
 #### Arrays
 - [1313. Decompress Run-Length Encoded List](https://leetcode.com/problems/decompress-run-length-encoded-list)
 - [1929. Concatenation Of Array](https://leetcode.com/problems/concatenation-of-array)
