@@ -60,6 +60,7 @@ Desafios de Leet Code com implementação de testes unitários
 - [2894. Divisible and Non-divisible Sums Difference](https://leetcode.com/problems/divisible-and-non-divisible-sums-difference)
 #### Pointers
 - [392. Is Subsequence](https://leetcode.com/problems/is-subsequence)
+- [2000. Reverse Prefix Of Word](https://leetcode.com/problems/reverse-prefix-of-word/)
 #### Strings
 - [412. Fizz Buzz](https://leetcode.com/problems/fizz-buzz)
 - [1108. Defanging an IP Address](https://leetcode.com/problems/defanging-an-ip-address/)
